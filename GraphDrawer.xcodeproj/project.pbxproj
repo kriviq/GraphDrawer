@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		7F6630A718C78138003B4EC5 /* GraphDrawer.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = GraphDrawer.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		7F66309B18C780C3003B4EC5 = {
 			isa = PBXGroup;
 			children = (
+				7F6630A718C78138003B4EC5 /* GraphDrawer.py */,
 			);
 			sourceTree = "<group>";
 		};
